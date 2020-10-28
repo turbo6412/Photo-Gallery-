@@ -1,0 +1,16 @@
+img {
+	width: 30%; /*roughly allows 3 images each row*/
+	float: left; /*gets rid of default white space between images*/
+	margin: 1.6%;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	margin-left: 1.66%; 
+	font-size: 23px; 
+	font-weight: 800; 
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1; 
+	width: 30%; 
+	padding-bottom: 20px; 
+}
