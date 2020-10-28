@@ -7,5 +7,5 @@
 
 
 # Here we see that the pictures in the grid, will resize themselves as the window shrinks: 
-![photo gallery can srhink](https://user-images.githubusercontent.com/46942833/97501749-0c923d80-192f-11eb-933a-8fb527d91cc1.PNG)
+![photo grid window](https://user-images.githubusercontent.com/46942833/97502507-79f29e00-1930-11eb-9321-e9f2995b3f4a.PNG)
 
