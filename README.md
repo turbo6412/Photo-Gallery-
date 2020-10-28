@@ -1,2 +1,2 @@
 # Photo-Gallery-
-Created a photo gallery layout using HTML/CSS. 
+Created a basic photo gallery layout using HTML/CSS. 
